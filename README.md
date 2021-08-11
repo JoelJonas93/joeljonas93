@@ -3,7 +3,7 @@
 - 😎 Atualmente trabalhando com Java/Spring ☕🍃
 - 🌱 Buscando aprender mais sobre padrões de projeto e Solid
 - 📫 Contato: joel.oliveira@fatec.sp.gov.br
-- 😄 Gosto de programa jogos 🎮 usando C# com Unity também
+- 😄 Gosto de programar jogos 🎮 usando C# com Unity também
 
  <div>
   <a href="https://github.com/joeljonas93">
